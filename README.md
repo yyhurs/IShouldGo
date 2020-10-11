@@ -13,6 +13,7 @@ GitHub Pages：https://yyhurs.github.io/i-should-go/
 ## 使用技術
 
 * 使用 Vue CLI 3 建構的 SPA
+* 前台樣式切分用 Sass 7-1 Pattern 提升可維護性
 * 前台介面 SCSS + BEM 純手刻 RWD
 * 後台介面 Bootstrap 4 + SCSS
 * 使用 vue-axios 介接 API
